@@ -1,0 +1,25 @@
+body {
+    background-image: url(https://www.ciderridgegolf.com/images/slideshow/slide4.jpg);
+    background-repeat: none;
+    background-size: cover;
+ }
+
+ #a {
+     color: white;
+     font-weight: bold;
+     
+ }
+
+ h1 {
+     color: white;
+ }
+
+ #AboutMe {
+     background-color: white;
+     font: black;
+     height: 400px;
+     length: 70px;
+     margin-top: 50px;
+     float: left;
+     margin-left: 50px;
+ }
